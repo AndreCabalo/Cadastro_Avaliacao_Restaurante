@@ -49,13 +49,17 @@ __init__(self, cliente, nota): Método construtor que inicializa uma avaliação
 
 # Execução do Projeto
 
-O script principal (main.py) demonstra a utilização das classes, criando instâncias de restaurantes, alterando seus estados, recebendo avaliações e listando todos os restaurantes com suas informações.
+O script principal (app.py) demonstra a utilização das classes, criando instâncias de restaurantes, alterando seus estados, recebendo avaliações e listando todos os restaurantes com suas informações.
 
 # Como Executar
 Certifique-se de ter o Python instalado em seu sistema.
-Clone este repositório.
-Navegue até o diretório do projeto.
-Execute o arquivo main.py para ver a saída do programa.
 
-python main.py
-Sinta-se à vontade para expandir este projeto adicionando mais funcionalidades, melhorando a interface do usuário ou implementando recursos adicionais. Divirta-se codificando!
+Clone este repositório.
+
+Navegue até o diretório do projeto.
+
+Execute o arquivo app.py para ver a saída do programa.
+
+Sinta-se à vontade para expandir este projeto adicionando mais funcionalidades, melhorando a interface do usuário ou implementando recursos adicionais. 
+
+Divirta-se codificando!
