@@ -1,3 +1,8 @@
+<p align="center">
+  
+<img src=https://github.com/AndreCabalo/Cadastro_Avaliacao_Restaurante/assets/103711127/cbb2432c-1e50-415a-972c-a249000d57d5> 
+</p>
+
 # Restaurante Manager
 Este é um simples projeto Python chamado "Restaurante Manager" que gerencia uma lista de restaurantes, seus estados (aberto ou fechado), categorias, e avaliações atribuídas pelos clientes.
 
